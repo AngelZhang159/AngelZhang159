@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel Zhang
-- 👀 I’m interested in: Learning Back and Front
-- 🌱 I’m currently learning: React, Angular & Spring Boot
+- 👀 I’m interested in Full-Stack
+- 🌱 I’m currently learning: Angular & Spring Boot
 - 📫 How to reach me: angelzhang159@gmail.com
 
 <!---
